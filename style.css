@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#bgimg{
+    /* height: 538px; */
+    /* width: 100%; */
+    background-image: url(./assests/legpiece.jpg); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as needed */
+    max-width: 100%;
+    
+    
+}
+button:hover {
+    background-color: #ff006e; /* Change the background color on hover */
+    color: white; /* Change the text color on hover */
+}
+
+/* Add a hover effect to navigation links */
+.navbar-nav a:hover {
+    color: #ff006e; /* Change the text color on hover */
+}
+
+
+  
